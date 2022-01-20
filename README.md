@@ -2,7 +2,7 @@
 R code for variable selection and dimension reduction of time series data using vector autoregression.
 
 ## R Script 
-Provides analysis for the paper "Variable targeting and reduction in large vector
+VarhiScript_QWI.r provides analysis for the paper "Variable targeting and reduction in large vector
  autoregressions with applications to workforce indicators", Journal of Applied Statistics.
 
 ## main functions
